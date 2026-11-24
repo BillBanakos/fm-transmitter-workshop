@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+# simulator outputs (large, regenerate by running the sim)
+*.raw
+*.log
+*.op.raw
+*.net
+*.plt
+# KiCad backups / local state
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+~*.lck
